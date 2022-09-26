@@ -13,11 +13,14 @@ system that allows an auditing authority to examine data without impacting its c
 Delegated verifiability: The user should be able to delegate data auditing to a third party
 without affecting the data confidentiality. Without retrieving all of the data from the cloud
 server, the TPA should be able to perform the auditing process swiftly.
+
 Storage authenticity: the user should be able to verify (either directly or through the TPA) that
 his data is correctly saved on cloud servers.
+
 Privacy Preserving: The TPA should not be able to recover the audited data blocks during the
 auditing process to ensure privacy.
-1
+
+
 Batch verification: The auditor should be able to do several data checks at once.
 In the existing system, a cloud server is in charge of computing the evidence for data integrity
 checks, as well as storing a large amount of user data. As a result, the weight of storage as
@@ -27,6 +30,7 @@ auditing process. All of the following characteristics are vital and must be met
 plan to be trustworthy. As a result, an efficient and secure auditing method that can efficiently
 perform public auditing while retaining both the integrity and confidentiality of stored data is
 required.
+
 1.3 Proposed system
 To overcome the limitations of the present auditing systems, a robust public auditing protocol
 must be developed. Using TPA, the suggested system verifies the correctness of cloud data. It
