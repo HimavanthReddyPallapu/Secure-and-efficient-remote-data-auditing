@@ -10,6 +10,7 @@ and access data without having to constantly worry about data integrity. The use
 system that allows an auditing authority to examine data without impacting its confidentiality.
 
 1.2 Limitations of existing system
+
 Delegated verifiability: The user should be able to delegate data auditing to a third party
 without affecting the data confidentiality. Without retrieving all of the data from the cloud
 server, the TPA should be able to perform the auditing process swiftly.
@@ -19,7 +20,6 @@ his data is correctly saved on cloud servers.
 
 Privacy Preserving: The TPA should not be able to recover the audited data blocks during the
 auditing process to ensure privacy.
-
 
 Batch verification: The auditor should be able to do several data checks at once.
 In the existing system, a cloud server is in charge of computing the evidence for data integrity
