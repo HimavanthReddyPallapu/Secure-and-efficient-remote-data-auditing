@@ -4,9 +4,9 @@ Cloud computing is a distributed computing architecture that uses a vast pool of
 Long-term storage services are provided over the Internet by a cloud storage system, which consists of a collection of storage servers. Data confidentiality is seriously harmed when data
 is stored in a third-party cloud system.
 General encryption algorithms ensure data security but limit the storage system’s usefulness because only a few activities can be performed on encrypted data.
-Allowing either the user or the cloud server to conduct the auditing procedure will be unsuitable because the data is outsourced and under the control of the cloud service provider.
+Allowing either the user or the cloud server to conduct the auditing procedure will be unsuitable because the data is outsourced and under the control of the cloud service provider.
 Second, due to transmission costs or processing limitations, the user may not always be able to handle the overhead of such an activity. Furthermore, service users should be able to store
-and access data without having to constantly worry about data integrity. The use of a thirdparty auditing firm is justified for these reasons. As a result, we must provide a data auditing
+and access data without having to constantly worry about data integrity. The use of a third party auditing firm is justified for these reasons. As a result, we must provide a data auditing
 system that allows an auditing authority to examine data without impacting its confidentiality.
 
 1.2 Limitations of existing system
